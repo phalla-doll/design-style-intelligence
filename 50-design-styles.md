@@ -2,8 +2,6 @@
 
 **Learn the design language that AI understands and turn your aesthetic intuition into clear, powerful prompts.**
 
-*By Himanshu Bhardwaj | UX Planet | August 1, 2025*
-
 ![Cover Image](images/cover.png)
 
 In this era of AI-generated visuals, chances are you must have tried to create something stunning. Well, I did too. But when I typed what I thought was a great prompt, the result looked nothing like my vision.
